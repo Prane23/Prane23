@@ -1,16 +1,53 @@
 ## Hi there 👋
 
-<!--
-**Prane23/Prane23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Prashant Rane
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate data , analytics and  Full stack development enthusiast focused on building scalable solutions using Python, C# , Power BI, and cloud technologies like Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🚀 What I Do
+
+- 🔄 **ETL Pipelines**: Automating data extraction and transformation using Python
+- 📊 **Data Visualization**: Creating insightful dashboards with Power BI
+- ☁️ **Cloud Integration**: Working with Azure Synapse, Microsoft Fabric and other cloud services
+- 🌐 **Full Stack Development**: Building web applications using C#, ASP.NET, and MongoDB
+- 🖥️ **Desktop Development**: Creating rich desktop applications using WPF
+- 🧠 **Learning & Sharing**: Constantly exploring new tools and sharing knowledge
+
+---
+
+## 📌 Featured Projects
+
+### [Python ETL Pipeline](https://github.com/Prane23/Python_ETL_Pipeline)
+A simple yet powerful script that extracts data from APIs and exports it to CSV using Python and Pandas.
+
+### [Power BI Dashboard – HR Analytics](https://github.com/Prane23/Power-BI-Dashboard-HR-Analytics)
+An interactive dashboard that provides insights into workforce trends, attrition, and departmental performance.
+
+### [Azure Synapse Analytics – End to End](https://github.com/Prane23/Azure-Synapse-Analytics_End_to_End)
+A comprehensive walkthrough of building analytics solutions using Azure Synapse.
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![WPF](https://img.shields.io/badge/-WPF-5C2D91?style=flat&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/prashant-rane/)
+- 📧 Email: prashant_rane100@hotmail.com
+
+---
