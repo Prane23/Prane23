@@ -32,7 +32,13 @@ A comprehensive walkthrough of building analytics solutions using Azure Synapse.
 ---
 
 ## 🛠️ Tools & Technologies
+
+!Python
+!Power BI
 ![Azure](https://img.shields.ioPF
+!Git
+![VS Code](https://img.shields.io
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
