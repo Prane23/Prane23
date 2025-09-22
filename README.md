@@ -33,7 +33,7 @@ A comprehensive walkthrough of building analytics solutions using Azure Synapse.
 
 ## 🛠️ Tools & Technologies
 
-![Azure](https://code.benco.io/icon-collection/azure-icons/azure.svg)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=m-Azure%20Functions20SQL-0078D4?style=flat&logo=microsoftsqlserver&D4?style=flat&logo=microsoft
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
