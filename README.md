@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Prashant Rane
 
-Welcome to my GitHub! I'm a passionate data , analytics and  Full stack development enthusiast focused on building scalable solutions using Python, C# , Power BI, and cloud technologies like Azure.
+Welcome to my GitHub! I'm a passionate data , analytics and full stack development enthusiast focused on building scalable solutions using Python, C# , Power BI, and cloud technologies like Azure.
 
 
 ---
