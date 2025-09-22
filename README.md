@@ -35,6 +35,7 @@ A comprehensive walkthrough of building analytics solutions using Azure Synapse.
 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=m-Azure%20Functions20SQL-0078D4?style=flat&logo=microsoftsqlserver&D4?style=flat&logo=microsoft)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=flat&logo=postgres
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
