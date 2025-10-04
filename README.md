@@ -22,6 +22,9 @@ Welcome to my GitHub! I'm a passionate data , analytics and full stack developme
 ### [Python ETL Pipeline](https://github.com/Prane23/Python_ETL_Pipeline)
 A simple yet powerful script that extracts data from APIs and exports it to CSV using Python and Pandas.
 
+### [JWT-Authentication-.NET-API](https://github.com/Prane23/JWT-Authentication-in-.NET-Core-Web-API)
+A practical demonstration of implementing secure authentication using  (JWT) in an ASP.NET Core Web API application. 
+
 ### [Power BI Dashboard – HR Analytics](https://github.com/Prane23/Power-BI-Dashboard-HR-Analytics)
 An interactive dashboard that provides insights into workforce trends, attrition, and departmental performance.
 
