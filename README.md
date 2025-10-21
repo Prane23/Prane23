@@ -19,17 +19,19 @@ Welcome to my GitHub! I'm a passionate data , analytics and full stack developme
 
 ## 📌 Featured Projects
 
-### [Python ETL Pipeline](https://github.com/Prane23/Python_ETL_Pipeline)
-A simple yet powerful script that extracts data from APIs and exports it to CSV using Python and Pandas.
+### [Azure Synapse Analytics – End to End](https://github.com/Prane23/Azure-Synapse-Analytics_End_to_End)
+A comprehensive walkthrough of building analytics solutions using Azure Synapse.
 
 ### [JWT-Authentication-.NET-API](https://github.com/Prane23/JWT-Authentication-in-.NET-Core-Web-API)
 A practical demonstration of implementing secure authentication using  (JWT) in an ASP.NET Core Web API application. 
 
+### [Python ETL Pipeline](https://github.com/Prane23/Python_ETL_Pipeline)
+A simple yet powerful script that extracts data from APIs and exports it to CSV using Python and Pandas.
+
 ### [Power BI Dashboard – HR Analytics](https://github.com/Prane23/Power-BI-Dashboard-HR-Analytics)
 An interactive dashboard that provides insights into workforce trends, attrition, and departmental performance.
 
-### [Azure Synapse Analytics – End to End](https://github.com/Prane23/Azure-Synapse-Analytics_End_to_End)
-A comprehensive walkthrough of building analytics solutions using Azure Synapse.
+
 
 ---
 
