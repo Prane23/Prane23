@@ -22,6 +22,9 @@ Welcome to my GitHub! I'm a passionate data , analytics and full stack developme
 ### [Azure Synapse Analytics – End to End](https://github.com/Prane23/Azure-Synapse-Analytics_End_to_End)
 A comprehensive walkthrough of building analytics solutions using Azure Synapse.
 
+### [FastApi_With_Postgress_on_Docker](https://github.com/Prane23/FastApi_With_Postgress_on_Docker)  
+A starter template for running FastAPI with PostgreSQL inside Docker. Includes database setup, CRUD APIs, and container orchestration.
+  
 ### [JWT-Authentication-.NET-API](https://github.com/Prane23/JWT-Authentication-in-.NET-Core-Web-API)
 A practical demonstration of implementing secure authentication using  (JWT) in an ASP.NET Core Web API application. 
 
