@@ -22,6 +22,10 @@ Welcome to my GitHub! I'm a passionate data , analytics and full stack developme
 ### [Azure Synapse Analytics – End to End](https://github.com/Prane23/Azure-Synapse-Analytics_End_to_End)
 A comprehensive walkthrough of building analytics solutions using Azure Synapse.
 
+### [.NET 10 API with Redis Caching (Dockerized)](https://github.com/Prane23/NET-API-with-Redis) 
+A lightweight, containerized Web API built with .NET 10, Redis, Docker Compose, and controller‑based architecture.  
+Implements distributed caching, API versioning, mock repository pattern, and Swagger for testing.
+
 ### [FastApi_With_Postgress_on_Docker](https://github.com/Prane23/FastApi_With_Postgress_on_Docker)  
 A starter template for running FastAPI with PostgreSQL inside Docker. Includes database setup, CRUD APIs, and container orchestration.
   
