@@ -44,7 +44,12 @@ An interactive dashboard that provides insights into workforce trends, attrition
 
 ## 🛠️ Tools & Technologies
 
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=m-Azure%20Functions20SQL-0078D4?style=flat&logo=microsoftsqlserver&D4?style=flat&logo=microsoft)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A9EDC?style=flat&logo=deltalake&logoColor=white)
+![ADLS Gen2](https://img.shields.io/badge/Azure%20Data%20Lake%20Storage%20Gen2-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-3776AB?style=flat&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=flat&logo=postgres)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
