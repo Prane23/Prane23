@@ -19,7 +19,7 @@ Welcome to my GitHub! I’m a data architect, analytics practitioner, and Web ap
 
 ## 📌 Featured Projects
 
-### [Azure Synapse Analytics – End to End](https://github.com/Prane23/Azure-Synapse-Analytics_End_to_End)
+### [Azure Databricks & Synaps Analytics – End to End](https://github.com/Prane23/Azure-Synapse-Analytics_End_to_End)
 A comprehensive walkthrough of building analytics solutions using Azure Synapse.
 
 ### [Python ETL Pipeline](https://github.com/Prane23/Python_ETL_Pipeline)
