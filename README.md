@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m a data architect, analytics practitioner, and Web ap
 
 ## 🚀 What I Do
 
-- 🔄 **ETL Pipelines**: Automating data extraction and transformation using Python
+- 🔄 **ETL Pipelines**: Automating data extraction and transformation using Python and Sql.
 - 📊 **Data Visualization**: Creating insightful dashboards with Power BI
 - ☁️ **Cloud Integration**: Skilled in Azure Synapse, Databricks, and Snowflake to deliver seamless, scalable data solutions.
 - 🌐 **Full Stack Development**: Building web applications using C#, ASP.NET, and MongoDB
