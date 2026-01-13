@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Prashant Rane
 
-Welcome to my GitHub! I’m a data architect, analytics practitioner, and Web app/API developer who builds scalable, end‑to‑end solutions. My work spans modern data engineering pipelines, Snowflake‑centric architectures, SQL‑driven analytics, and cloud platforms like Azure Synapse and Databricks, along with full‑stack applications using Python, C#, Power BI, and Azure
+Welcome to my GitHub! I’m a data architect, analytics practitioner, and Web app/API developer who builds scalable, end‑to‑end solutions. My work spans modern data engineering pipelines, Snowflake‑centric architectures, SQL‑driven analytics, and cloud platforms like Azure Synapse and Databricks, along with full‑stack applications using Python, C#, Power BI, Azure and Snowflake
 
 
 ---
