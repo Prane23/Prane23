@@ -19,6 +19,9 @@ Welcome to my GitHub! I’m a data architect, analytics practitioner, and Web ap
 
 ## 📌 Featured Projects
 
+### [Snowflake HR Analytics Lakehouse – End to End](https://github.com/Prane23/Snowflake_HR_Analytics_Lakehouse)
+A complete end‑to‑end HR Analytics Lakehouse built on Snowflake using the Medallion Architecture and Dynamic Tables
+
 ### [Azure Databricks & Synaps Analytics – End to End](https://github.com/Prane23/Azure-Synapse-Analytics_End_to_End)
 A comprehensive walkthrough of building analytics solutions using Azure Synapse.
 
