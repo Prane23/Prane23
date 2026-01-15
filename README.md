@@ -3,7 +3,6 @@
 
 Welcome to my GitHub! I’m a data architect, analytics practitioner, and Web app/API developer who builds scalable, end‑to‑end solutions. My work spans modern data engineering pipelines, Snowflake‑centric architectures, SQL‑driven analytics, and cloud platforms like Azure Synapse and Databricks, along with full‑stack applications using Python, C#, Power BI, and Azure.
 
-
 ---
 
 ## 🚀 What I Do
@@ -44,8 +43,6 @@ A practical demonstration of implementing secure authentication using  (JWT) in 
 ### [Power BI Dashboard – HR Analytics](https://github.com/Prane23/Power-BI-Dashboard-HR-Analytics)
 An interactive dashboard that provides insights into workforce trends, attrition, and departmental performance.
 
-
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -61,6 +58,9 @@ An interactive dashboard that provides insights into workforce trends, attrition
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST%20API-4CAF50?style=flat&logo0Services-9C27B0?style=flat&)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat&logo=architect&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
