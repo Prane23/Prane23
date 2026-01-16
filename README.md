@@ -27,17 +27,17 @@ A comprehensive walkthrough of building analytics solutions using Azure Synapse.
 ### [Python ETL Pipeline](https://github.com/Prane23/Python_ETL_Pipeline)
 A simple yet powerful script that extracts data from APIs and exports it to CSV using Python and Pandas.
 
-### [EventDriven_RabbitMQ_.NET](https://github.com/Prane23/EventDriven_RabbitMQ_.NET)
+### [EventDriven RabbitMQ .NET](https://github.com/Prane23/EventDriven_RabbitMQ_.NET)
 A complete end‑to‑end event-driven application built on RabbitMQ using .NET 10, featuring a Producer Web API, Consumer Background Service, and Dockerized RabbitMQ for seamless messaging
 
 ### [.NET 10 API with Redis Caching (Dockerized)](https://github.com/Prane23/NET-API-with-Redis) 
 A lightweight, containerized Web API built with .NET 10, Redis, Docker Compose, and controller‑based architecture.  
 Implements distributed caching, API versioning, mock repository pattern, and Swagger for testing.
 
-### [FastApi_With_Postgress_on_Docker](https://github.com/Prane23/FastApi_With_Postgress_on_Docker)  
+### [FastApi With Postgress on Docker](https://github.com/Prane23/FastApi_With_Postgress_on_Docker)  
 A starter template for running FastAPI with PostgreSQL inside Docker. Includes database setup, CRUD APIs, and container orchestration.
   
-### [JWT-Authentication-.NET-API](https://github.com/Prane23/JWT-Authentication-in-.NET-Core-Web-API)
+### [JWT-Authentication .NET-API](https://github.com/Prane23/JWT-Authentication-in-.NET-Core-Web-API)
 A practical demonstration of implementing secure authentication using  (JWT) in an ASP.NET Core Web API application. 
 
 ### [Power BI Dashboard – HR Analytics](https://github.com/Prane23/Power-BI-Dashboard-HR-Analytics)
