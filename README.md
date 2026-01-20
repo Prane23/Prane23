@@ -7,12 +7,12 @@ Welcome to my GitHub! I’m a data architect, analytics practitioner, and Web ap
 
 ## 🚀 What I Do
 
-- 🔄 **ETL Pipelines**: Automating data extraction and transformation using Python and Sql.
-- ☁️ **Cloud Integration**: Skilled in Azure Synapse, Databricks, and Snowflake to deliver seamless, scalable data solutions.
-- 🌐 **Full Stack Development**: Building web applications using C#, ASP.NET, and MongoDB/SQL.
-- - 📊 **Data Visualization**: Creating insightful dashboards with Power BI
-- 🖥️ **Desktop Development**: Creating rich desktop applications using WPF
-- 🧠 **Learning & Sharing**: Constantly exploring new tools and sharing knowledge
+- 🔄 ETL & Data Pipelines: Automating data extraction, transformation, and loading using Python and SQL for reliable, scalable workflows.
+- 🌩️ Cloud Data Solutions: Designing and integrating secure, high-performance platforms with Azure Synapse, Databricks, and Snowflake.
+- 🌐 Full-Stack Development: Building robust web applications using C#, ASP.NET, and MongoDB/SQL.
+- 📊 Data Visualization: Delivering actionable insights through interactive Power BI dashboards.
+- 🖥️ Desktop Applications: Crafting rich, user-friendly desktop experiences with WPF.
+- 🧠 Continuous Learning & Sharing: Exploring emerging technologies and sharing knowledge with the community.
 
 ---
 
