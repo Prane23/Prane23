@@ -20,6 +20,9 @@ I also develop full-stack applications using C#, and .NET, and design interactiv
 
 ## 📌 Featured Projects
 
+### [Databricks CRM Analytics Pipeline – End to End](https://github.com/Prane23/Databricks-End-to-End-CRM-Analytics-Pipeline)
+An end-to-end Databricks pipeline that transforms raw CRM data into actionable insights using the Medallion Architecture.
+
 ### [Snowflake HR Analytics Lakehouse – End to End](https://github.com/Prane23/Snowflake_HR_Analytics_Lakehouse)
 A complete end‑to‑end HR Analytics Lakehouse built on Snowflake using the Medallion Architecture and Dynamic Tables
 
