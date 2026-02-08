@@ -32,6 +32,9 @@ A complete end‑to‑end HR Analytics Lakehouse built on Snowflake using the Me
 ### [Azure Databricks & Synaps Analytics – End to End](https://github.com/Prane23/Azure-Synapse-Analytics_End_to_End)
 A comprehensive walkthrough of building analytics solutions using Azure Synapse.
 
+### [Dotnet API Resilience Framework](https://github.com/Prane23/Dotnet_Api_Resilience_Framework)
+A production‑ready .NET API template showcasing resilience patterns, structured logging, observability, and fault‑tolerant design using Polly, Serilog, Seq.
+
 ### [Snowflake Stream & Tasks: Change Tracking](https://github.com/Prane23/Snowflake_Stream_And_Tasks_Change_Tracking)
 This project demonstrates Change Data Capture (CDC) using Snowflake Streams and Tasks to keep a Production table in sync with Staging.
 
